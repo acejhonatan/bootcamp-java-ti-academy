@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "usuario": "Master",
+            "senha": "12345"
+        },
+        {
+            "usuario": "Marcelo",
+            "senha": "senha"
+        },
+        {
+            "usuario": "Jhonatan",
+            "senha": "bootcamp"
+        }
+    ]
+}
